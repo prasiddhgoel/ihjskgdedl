@@ -35,7 +35,9 @@ function draw() {
   background(0);
 
 
-  text ("prasiddh goel", 200,200,200)
+  
+  
+  
   paper.display();
   ground.display();
   dustbin1.display();
